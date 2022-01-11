@@ -4,8 +4,9 @@
 - Yesung Choi
 - 2005.09.19 🐔
 - Hansei Cyber Security High School
-  - 해킹보안과정
+  - 해킹보안과
   - 시스템 보안 연구 동아리 (SSR)
+- 블로그 : y3sung.tistory.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 
