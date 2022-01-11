@@ -1,7 +1,7 @@
 # Hello World! 🙌  
 
 ## About ME 😀
-- Choi Ye sung
+- Yesung Choi
 - 2005.09.19 🐔
 - Hansei Cyber Security High School
   - 해킹보안과정
