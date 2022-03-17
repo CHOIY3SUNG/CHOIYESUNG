@@ -2,7 +2,6 @@
 
 ## About ME 😀
 - Yesung Choi
-- 2005.09.19 🐔
 - Hansei Cyber Security High School
   - 해킹보안과
   - 시스템 보안 연구 동아리 (SSR)
