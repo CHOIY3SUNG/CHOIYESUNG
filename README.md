@@ -8,8 +8,6 @@
   - 네트워크 보안 서버 구축 동아리 1기 부장 (NSB)
 - Blog : https://y3sung.tistory.com
 
-         https://velog.io/@offyes
-
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 [![Nflx](https://img.shields.io/badge/Watching_Netflix-e50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix.com)
 ![Music](https://img.shields.io/badge/Listening_to_Music-fd5260?style=for-the-badge&logo=apple-music&logoColor=white)
