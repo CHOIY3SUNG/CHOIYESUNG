@@ -7,6 +7,7 @@
   - 시스템 보안 연구 동아리 12기 해킹부 (SSR)
   - 네트워크 보안 서버 구축 동아리 1기 부장 (NSB)
 - Blog : https://y3sung.tistory.com
+
          https://velog.io/@offyes
 
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
