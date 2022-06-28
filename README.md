@@ -8,6 +8,8 @@
   - 네트워크 보안 서버 구축 동아리 1기 부장 (NSB)
 - Blog : https://velog.io/@offyes
 
+quarantine release!!!!!
+
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:offyes0919@gmail.com)
 
