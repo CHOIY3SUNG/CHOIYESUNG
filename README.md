@@ -12,6 +12,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:offyes0919@gmail.com)
 
+## Learning
+![Swift](https://img.shields.io/badge/Swift-fa7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/Swiftui-blue?style=for-the-badge&logo=swift&logoColor=white)
+
 ## Programming Language
 
 
