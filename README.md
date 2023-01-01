@@ -2,7 +2,7 @@
 
 ## About ME 😀
 - Yesung Choi
-- Hansei Cyber Security High School (재학 중)
+- Hansei Cyber Security High School
   - 해킹보안과
   - 시스템 보안 연구 동아리 12기 (SSR)
   - 네트워크 보안 서버 구축 동아리 1기 (NSB)
