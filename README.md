@@ -12,4 +12,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 [![Email](https://img.shields.io/badge/Email-168de2?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:offyes0919@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIY3SUNG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
