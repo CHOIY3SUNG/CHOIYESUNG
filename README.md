@@ -17,7 +17,7 @@
 
 
 
-##### Contect
+#### 📱 Contect
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/최예성#5014)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dPtjd_/)
 </div>
