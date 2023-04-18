@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=180&section=header&text=Y3sung's%20Hub&fontSize=50&animation=fadeIn&fontAlignY=45" />
 
 # 🙌 Hello World! 🙌
 ## 🤔 About Me 🤔
