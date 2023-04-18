@@ -1,6 +1,12 @@
-# Hello World! 🙌  
-
 <div align="center">
+
+# 🙌 Hello World! 🙌
+## 🤔 About Me 🤔
+  
+🐔 2005.09.19 🐔
+  
+<a href="https://y3sung.notion.site/599529b9f0154e82ba9aee1c6a836e28"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
+##
 
 ### 🏀 Language
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /></div>
