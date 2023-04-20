@@ -9,17 +9,16 @@
 
 
 ## 🏀 Language
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /></div>
-  
-
-## 🍔 DataBase
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-  
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /></div>  
 
 ## 🍱 Learning and Interest
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/><br>
+<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
+<img alt= "icon" wide="60" height="60" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Antu_mongodb.svg/512px-Antu_mongodb.svg.png?20160706123547"><br>
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>
+
+ 
+
   
 ##
 
