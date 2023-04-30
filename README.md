@@ -3,7 +3,7 @@
   
 # 🤔 About Me 🤔
   
-🐔 2005.09.19 🐔
+🐔 불꽃남자 최예성 🐔
   
 <a href="https://y3sung.notion.site/599529b9f0154e82ba9aee1c6a836e28"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
 
